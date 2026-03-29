@@ -43,7 +43,7 @@ PORT=5000
 node server.js
 
 El servidor correrá en:
-http://localhost:5000
+https://habit-tracker-backend-nine.vercel.app
 
 ## 📡 Endpoints disponibles
 
